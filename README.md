@@ -1,2 +1,2 @@
-# exercisse_OpenClasserooms
-exercisseOC
+# exercice_OpenClasserooms
+exerciceOC
