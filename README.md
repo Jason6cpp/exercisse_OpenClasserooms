@@ -1,2 +1,0 @@
-# exercice_OpenClasserooms
-exerciceOC
